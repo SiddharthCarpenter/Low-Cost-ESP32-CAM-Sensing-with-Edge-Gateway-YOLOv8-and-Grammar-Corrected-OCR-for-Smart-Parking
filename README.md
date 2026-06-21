@@ -4,7 +4,7 @@ This repository contains the complete implementation of the low-cost, resource-c
 
 ## 📁 Repository Structure
 
-*   `arduino/`
+*   `ESP32/`
     *   `esp32_cam/` — Microcontroller code for the AI-Thinker ESP32-CAM (sensing, JPEG capture, Wi-Fi upload, and UDP server discovery).
     *   `esp32_devkit/` — Microcontroller code for the NodeMCU ESP32 DevKit v1 (peripheral controller for IR sensors, LCD, and SG90 servo gate).
 *   `gateway_server/` — Lightweight x86/ARM gateway server running YOLOv8-nano (INT8), Hough-based deskewing, EasyOCR, and HSRP grammar correction.
